@@ -266,7 +266,7 @@ h4{
 
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:370px){
   body{
     margin-right: -3px;
   }
