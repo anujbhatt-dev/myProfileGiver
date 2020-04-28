@@ -12,7 +12,18 @@ body {
   height: 100%;
   z-index: -1;
 }
-
+.s1::after{
+  content: "\2605 \2605 \2605 \2605";
+  color:yellow;
+}
+.s2::after{
+  content: "\2605 \2605";
+  color:yellow;
+}
+.s3::after{
+  content: "\2605 \2605 \2605";
+  color:yellow;
+}
 h1 {
   text-align: center;
   margin: 20px auto;
